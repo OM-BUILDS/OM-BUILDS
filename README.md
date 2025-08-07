@@ -10,7 +10,7 @@ I'm a passionate **Computer Science Student** with experience in **Linux OS, MER
 - 🔭 Working on: **MERN Stack project**
 - 🌍 Languages: **Python, C, C++, JavaScript**
 - 📫 How to reach me: **omanand149@gmail.com || csb21093@tezu.ac.in**
-- ⚡ Fun fact: **Right Arm Openner Batsman(!EA)**
+- ⚡ Fun fact: **Right Arm Opener Batsman(!EA), Explorer Mode:Always On**
 
 ## My Skills 🧠
 
@@ -22,7 +22,7 @@ I'm a passionate **Computer Science Student** with experience in **Linux OS, MER
 
 ## Featured Projects 💻
 
-### Milk-Sync(milk-sync-frontend.onrender.com)
+### Milk-Sync(https://milk-sync-frontend.onrender.com)
 
 **Milk-Sync** is a **A full-stack web application to digitize and streamline the daily milk delivery process for local milkmen and households.** built with **MERN**. This project demonstrates my ability to **develop a web app using React, and Node.js**. You can check out the repository [here](https://github.com/OM-BUILDS/milk-sync).
 
